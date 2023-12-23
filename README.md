@@ -1,10 +1,9 @@
 # Nome do Projeto: Desafio Docker Full Cycle
 
 ## Descrição
-Breve descrição do seu projeto. Explique que este é um projeto desenvolvido para um desafio do curso Full Cycle, que envolve a utilização de Docker com Nginx, Node.js e MySQL.
+Projeto desenvolvido para um desafio do curso Full Cycle, que envolve a utilização de Docker com Nginx, Node.js e MySQL.
 
 ## Funcionalidades
-Descreva as funcionalidades do projeto, por exemplo:
 - Nginx atuando como proxy reverso para Node.js.
 - Aplicação Node.js que se conecta a um banco de dados MySQL.
 - Criação automática da tabela `people` no MySQL.
@@ -24,7 +23,6 @@ Liste as tecnologias utilizadas no projeto, como:
 - Docker e Docker Compose instalados.
 
 ### Instruções de Execução
-Explique como clonar e executar o projeto:
 1. Clone o repositório: git clone [https://github.com/rodriguesra/fullcycle-docker-desafio-02]
 
 2. Navegue até o diretório do projeto: cd [nome do diretório]
