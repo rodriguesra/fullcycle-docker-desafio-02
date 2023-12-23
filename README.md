@@ -25,7 +25,7 @@ Liste as tecnologias utilizadas no projeto, como:
 ### Instruções de Execução
 1. Clone o repositório: git clone [https://github.com/rodriguesra/fullcycle-docker-desafio-02]
 
-2. Navegue até o diretório do projeto: cd [nome do diretório]
+2. Navegue até o diretório do projeto: cd fullcycle-docker-desafio-02
 
 3. Construa e inicie os containers: docker-compose up -d
 
