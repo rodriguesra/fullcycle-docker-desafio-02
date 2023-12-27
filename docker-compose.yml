@@ -13,6 +13,8 @@ services:
       MYSQL_DATABASE: db
     volumes:
       - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "3307:3306"
 
   nginx:
     build: ./nginx
